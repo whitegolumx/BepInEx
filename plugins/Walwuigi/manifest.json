@@ -1,0 +1,11 @@
+{
+  "name": "WaluigiPinball",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "A port of Waluigi Pinball from Mario Kart DS.",
+  "dependencies": [
+"IAmBatby-LethalLevelLoader-1.2.4",
+"IAmBatby-LethalToolbox-1.0.2"
+    
+  ]
+}

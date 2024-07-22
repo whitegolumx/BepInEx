@@ -1,0 +1,11 @@
+{
+    "name": "CozyOffice",
+    "version_number": "1.2.1",
+    "website_url": "https://discord.com/channels/1168655651455639582/1212942407306313788",
+    "description": "[1.2.1] Wander around a cozy office, but something lurks inside..!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "IAmBatby-LethalLevelLoader-1.2.4",
+        "Hardy-LCMaxSoundsFix-1.2.0"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "SchoolMoon",
+  "version_number": "1.2.1",
+  "website_url": "https://github.com/RazrabGit/MAOYSchoolMod",
+  "description": "[1.2.1 Release] Adds a new moon with a soviet abandoned school with 8 unique scrap items (v55 compatibility)",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-LethalLib-0.15.1",
+    "Evaisa-HookGenPatcher-0.0.5",
+    "Evaisa-FixPluginTypesSerialization-1.1.1",
+    "MaxWasUnavailable-LethalModDataLib-1.2.2",
+    "IAmBatby-LethalLevelLoader-1.2.4"
+  ]
+}

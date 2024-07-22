@@ -1,0 +1,13 @@
+{
+    "name": "WesleysInteriors",
+    "version_number": "1.2.16",
+    "website_url": "",
+    "description": "A few new interiors.",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.2.2",
+        "IAmBatby-LethalToolbox-1.0.2",
+        "BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-LethalLib-0.15.1",
+        "Evaisa-HookGenPatcher-0.0.5"
+    ]
+}
